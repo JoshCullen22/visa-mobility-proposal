@@ -29,6 +29,15 @@ SHA-256 fingerprints for all four files are in `SHA256SUMS`.
 The git history of this repository records when each file was uploaded here. The dates that
 count are the Bitcoin ones above.
 
+## Clean edition (28 September 2026)
+
+The folder `clean-edition-2026-09-28/` holds a layout-corrected copy of all four files. The
+wording is unchanged. Only spacing and text-box sizes were adjusted so no line wraps into or
+overlaps another.
+
+These are new files, so their Bitcoin proofs date from 28 September 2026. The originals above
+stay exactly as they were, and they carry the May and June proofs.
+
 ## Check it yourself
 
 1. Download a PDF and its matching `.ots` file.
